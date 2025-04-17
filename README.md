@@ -1,0 +1,1 @@
+This is a fun and interactive GUI-based number guessing game 🙌 built with Java Swing. The program generates a random number between 1 and 100, and the user must guess it. After each guess, the app provides feedback — Too high, Too low, or Correct! — and tracks the number of attempts.
